@@ -38,3 +38,6 @@ We are providing much of the flask web app for you, but feel free to add extra f
     `python run.py`
 
 3. Go to http://0.0.0.0:3001/
+
+Author 
+	Mahrukh Malik
