@@ -1,4 +1,4 @@
-import sys
+import 
 import nltk
 import re
 nltk.download(['punkt', 'wordnet'])
